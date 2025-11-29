@@ -38,11 +38,11 @@
 # my_list = [0] * 6
 # print(my_list)
 
-my_list = [1, 2, 3, 4]
-A = [my_list] * 4
-print(A)
-my_list [2] = 45
-print(A)
+# my_list = [1, 2, 3, 4]
+# A = [my_list] * 4
+# print(A)
+# my_list [2] = 45
+# print(A)
 
 # my_list = [1024, 3, True, 6.5]
 # my_list.append(False)
